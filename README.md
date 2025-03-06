@@ -18,6 +18,9 @@ and strategic interventions to improve retention, enabling businesses to make da
 
 ---
 
+**Dashboard:**  
+![Customer Churn Analysis](https://github.com/Magdy-ElRawy/Analyzing-Customer-Churn-in-Excel/blob/main/Analyzing%20Customer%20Churn%20Excel%20Dashboard.png)
+
 ## 🔹 Key Insights & Strategic Recommendations  
 
 ### 📌 Competitor Influence & Customer Support Are Major Churn Drivers  
